@@ -1,35 +1,69 @@
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
-#  Strengthening Bangladesh’s Cyber Future  
-### Policy Suggestions Based on Global Best Practices
 
-- Course: CSE 455 – Computer Ethics and Cyber Law   
-- Department: Computer Science and Engineering  
-- University: Hajee Mohammad Danesh Science & Technology University  
 
----
 
-## Submitted By
 
-- Name: Tazfia Sultana  
-- Student ID: 2002071  
-- Level: 4  
-- Semester: II  
-- Department: Computer Science and Engineering  
-- Submission Date: May 23, 2025  
+
+ **Course Title:** Computer Ethics and Cyber Law  
+**Course Code:** CSE 455  
 
 ---
 
-##  Project Overview
+### Submitted by:  
+**Name:** Tazfia Sultana    
+**ID:** 2002071   
+**Level:** 4, **Semester:** II   
+Hajee Mohammad Danesh Science & Technology University
+
+---
+
+### Submitted to:  
+Pankaj Bhowmik  
+Lecturer  
+Department of Computer Science and Engineering  
+Hajee Mohammad Danesh Science & Technology University
+
+---
+
+ **Submission Date:** 23 May 2025
+
+##  Overview
 
 As Bangladesh moves deeper into the digital era, its legal infrastructure must keep pace with rapidly evolving threats and technologies. Although the Digital Security Act 2018 was a major step forward, it now requires refinement to ensure it supports both security and digital freedoms. This project proposes modern reforms inspired by global examples to future-proof Bangladesh’s cyber law ecosystem.
 
 ---
 
-##  Current Legal Status
 
-### Existing Laws:
-- Information and Communication Technology (ICT) Act 2006 (amended 2013)  
-- Digital Security Act (DSA) 2018
+
+## Existing Cyber Laws In Bangladesh
+
+Bangladesh’s existing cyber laws include the ICT Act (2006), the Digital Security Act (2018), and the Cyber Security Act (2023), with the most recent update being the Cyber Security Ordinance (2025). These laws aim to address issues like cybercrime, online harassment, and digital misinformation.
+###  ICT Act, 2006
+- First comprehensive cyber law in Bangladesh.
+- Addressed hacking, online fraud, and spreading false information.
+- Section 57 became controversial for being used to suppress freedom of speech.
+- Eventually replaced due to widespread criticism.
+
+###  Digital Security Act, 2018
+- Introduced to combat fake news, cyber terrorism, and online harassment.
+- Faced backlash for restricting freedom of expression.
+- Repealed in 2023 for its misuse and lack of clarity.
+
+###  Cyber Security Act, 2023
+- Replaced the Digital Security Act.
+- Aimed to reduce punishments and be more balanced.
+- Criticized for vague language and lack of strong data protection.
+
+###  Cyber Security Ordinance, 2025
+- Latest legal update addressing modern cyber threats.
+- Recognizes internet access as a basic right.
+- Targets online abuse, cyberbullying, and AI-based crimes.
+- Bans online gambling and reduces jail time for speech-related offenses.
+- Enables faster removal of harmful content with court approval.
+
+These laws aim to protect citizens online while balancing digital rights and national security.
+
+---
 
 ### Key Issues:
 - Unclear and overly broad definitions  
